@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342473077897",
+    "project_id": "sunutaxi-d461f",
+    "storage_bucket": "sunutaxi-d461f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342473077897:android:664cc900846c82e7050258",
+        "android_client_info": {
+          "package_name": "com.example.sunutaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342473077897-os5blttcmtpcuqe52r71636cnf1nscf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGu_u4YQf-6XWYgEM4oKshKMPl-oradI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342473077897-os5blttcmtpcuqe52r71636cnf1nscf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
